@@ -6,7 +6,7 @@ int main()
 
 
 cout << " Hello Wolrd Ammar ";
-cout << " Hello Wolrd new ";
+cout << " Hello Wolrd new "
 
 return 0;
 }
